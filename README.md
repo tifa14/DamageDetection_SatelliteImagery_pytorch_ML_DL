@@ -5,3 +5,4 @@ Classification of satellite images based on the article by Cao and Chen : Buildi
 **- pytorch**
 **- Convolutional Neural Network**
 **- Transfer Learning**
+**- Image classification**
